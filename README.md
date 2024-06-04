@@ -1,3 +1,2 @@
 # AI-legal-consultation-services
-![alt text](http://C:\Users\shrut\Downloads\ssimg.png)
-![alt text](https://github.com/[]/[Dubeyshruti]/blob/[branch]/"C:\Users\shrut\Downloads\ssimg.png")
+![ssimg](https://github.com/Dubeyshruti/AI-legal-consultation-services/assets/100428636/408e9dd6-ea00-487f-894f-7861d4435bf0)
