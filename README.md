@@ -1,4 +1,7 @@
 # AI-legal-consultation-services
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/573927db784a43ee8868e1116b431447)](https://app.codacy.com/gh/Dubeyshruti/AI-legal-consultation-services?utm_source=github.com&utm_medium=referral&utm_content=Dubeyshruti/AI-legal-consultation-services&utm_campaign=Badge_Grade)
+
 ![Screenshot 2024-06-04 230306](https://github.com/Dubeyshruti/AI-legal-consultation-services/assets/100428636/499b5456-8558-4aee-a8df-78cf7b2a3c24)
 
 
