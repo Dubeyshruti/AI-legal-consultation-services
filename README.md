@@ -11,7 +11,7 @@
 
 ![Screenshot 2024-06-04 231704](https://github.com/Dubeyshruti/AI-legal-consultation-services/assets/100428636/dd0fa907-cf4b-4612-9ff4-ae81585e6780)
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a186c70236b94c1a9513166ca778b240)](https://app.codacy.com/gh/Dubeyshruti/AI-legal-consultation-services/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 
 
