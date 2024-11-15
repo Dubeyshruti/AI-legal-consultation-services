@@ -1,0 +1,20 @@
+name: Code Quality Analysis
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  code-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Run Codacy Analysis
+        env:
+          CODACY_PROJECT_TOKEN: ${{ secrets.CODACY_PROJECT_TOKEN }}
+        run: |
+          curl -Ls https://coverage.codacy.com/get.sh | bash -s report \
+            -r coverage.xml
